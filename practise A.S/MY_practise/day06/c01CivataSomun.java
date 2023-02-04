@@ -10,6 +10,7 @@ public class c01CivataSomun {
                  ) {
                 if (somunEach==civataEach){
                     System.out.println(somunEach+" somunu "+civataEach+" civatasi ile eslesti");
+                    System.out.println("islem tamam");
 
                 }
             }
